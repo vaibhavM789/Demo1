@@ -10,6 +10,10 @@ public class Demo1 {
 	{
 		System.out.println("Hello This is M2");
 	}
+	public void m3()
+	{
+		System.out.println("Hello This is M3");
+	}
 	
 	public static void main(String[] args) {
 		
